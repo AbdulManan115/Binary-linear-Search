@@ -63,7 +63,7 @@ python search_algorithms.py
 ## *LinkedIn Showcase*
 
 To see the complete project and connect with me, visit my *LinkedIn post*:  
-[*Explore on LinkedIn*](https://www.linkedin.com/in/your-link)
+[*Explore on LinkedIn*](https://www.linkedin.com/posts/manan-malik-1972a5298_github-abdulmanan115binary-linear-search-activity-7286659465804664834-PNZy?utm_source=share&utm_medium=member_desktop)
 
 ---
 
